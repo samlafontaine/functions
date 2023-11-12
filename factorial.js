@@ -7,4 +7,6 @@ const factorial = (num) => {
     } return fac;
 }
 
+// just some text
+
 console.log(factorial(6));
